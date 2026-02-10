@@ -1,0 +1,26 @@
+{
+  "name": "bajaj_qualifier_1",
+  "version": "1.0.0",
+  "description": "REST API for Bajaj Qualifier 1",
+  "homepage": "https://github.com/Pranav122333/Bajaj_Qualifier_1#readme",
+  "bugs": {
+    "url": "https://github.com/Pranav122333/Bajaj_Qualifier_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav122333/Bajaj_Qualifier_1.git"
+  },
+  "license": "ISC",
+  "author": "Pranav_2310991096",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
