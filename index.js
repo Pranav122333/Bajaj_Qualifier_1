@@ -128,4 +128,5 @@ app.post('/bfhl', async (req, res) => {
   }
 });
 
+// Export handler for Vercel
 module.exports = app;
